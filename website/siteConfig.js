@@ -48,14 +48,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: 'img/payfi-logo.png',
+  footerIcon: 'img/payfi-logo.png',
+  favicon: 'img/fav.png',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#2c1e37',
-    secondaryColor: '#1e1526',
+    primaryColor: '#3D6ABE',
+    secondaryColor: '#3D6ABE',
   },
 
   /* Custom fonts for website */
@@ -77,7 +77,7 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: '#3D6ABE',
   },
 
   // Add custom scripts here that would be placed in <script> tags.
