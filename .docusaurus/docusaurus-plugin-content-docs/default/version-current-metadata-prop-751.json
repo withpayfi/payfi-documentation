@@ -1,0 +1,24 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "SDK",
+        "href": "/docs/sdk"
+      },
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/docs/intro"
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/intro": "tutorialSidebar",
+    "/docs/sdk": "tutorialSidebar"
+  }
+}
