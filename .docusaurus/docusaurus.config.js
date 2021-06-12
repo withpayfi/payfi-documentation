@@ -1,7 +1,7 @@
 export default {
   "title": "PayFI",
   "tagline": "Creating convenience for Africans by helping them to finance any products with freedom of paying back in installments.",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://payfi.ng",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -13,7 +13,7 @@ export default {
       "title": "PayFI",
       "logo": {
         "alt": "PayFI Logo",
-        "src": "img/logo.svg"
+        "src": "img/payfi-logo.svg"
       },
       "items": [
         {
@@ -114,7 +114,9 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/Pheranmie_1/Documents/GitHub/PF-W/payfi-documentation/src/css/custom.css"
+          "customCss": [
+            "/Users/Pheranmie_1/Documents/GitHub/PF-W/payfi-documentation/src/css/custom.css"
+          ]
         }
       }
     ]
