@@ -63,8 +63,6 @@ Account Activation
 | address                | input your street address|
 | Support Email    | Suppport EMail Address  |
 | Support Phone | Your Business Phone Number |
-| Business Type   |   |
-| Incorporated Business Name |      |
 | Registration Type          |         |
 
 - Add your Bank Information

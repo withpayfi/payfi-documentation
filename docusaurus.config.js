@@ -2,7 +2,7 @@
 module.exports = {
   title: 'PayFI',
   tagline: 'Creating convenience for Africans by helping them to finance any products with freedom of paying back in installments.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://payfi.ng',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
