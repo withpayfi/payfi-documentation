@@ -11,8 +11,8 @@
           "mainDocId": "sdk",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "merchant",
+              "path": "/docs/merchant",
               "sidebar": "tutorialSidebar"
             },
             {

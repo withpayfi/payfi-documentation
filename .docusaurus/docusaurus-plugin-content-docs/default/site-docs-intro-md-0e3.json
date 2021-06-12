@@ -10,13 +10,13 @@
   "permalink": "/docs/intro",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/intro.md",
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Pay-Fi Sdk",
-    "permalink": "/docs/sdk"
+    "title": "Merchant Onboarding",
+    "permalink": "/docs/merchant"
   }
 }

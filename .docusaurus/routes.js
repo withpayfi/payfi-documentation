@@ -94,12 +94,12 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','d4d'),
+  component: ComponentCreator('/docs','86e'),
   
   routes: [
 {
-  path: '/docs/intro',
-  component: ComponentCreator('/docs/intro','e84'),
+  path: '/docs/merchant',
+  component: ComponentCreator('/docs/merchant','a73'),
   exact: true,
 },
 {

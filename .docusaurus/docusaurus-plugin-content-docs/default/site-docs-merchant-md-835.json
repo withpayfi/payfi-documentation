@@ -1,0 +1,24 @@
+{
+  "unversionedId": "merchant",
+  "id": "merchant",
+  "isDocsHomePage": false,
+  "title": "Merchant Onboarding",
+  "description": "Learn how Pay-Fi Merchants Get Onboard.",
+  "source": "@site/docs/merchant.md",
+  "sourceDirName": ".",
+  "slug": "/merchant",
+  "permalink": "/docs/merchant",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/merchant.md",
+  "version": "current",
+  "sidebar_label": "Merchant Onboarding",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Merchant Onboarding",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pay-Fi Sdk",
+    "permalink": "/docs/sdk"
+  }
+}

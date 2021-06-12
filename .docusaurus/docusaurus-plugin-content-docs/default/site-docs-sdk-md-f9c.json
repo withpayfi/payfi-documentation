@@ -10,15 +10,15 @@
   "permalink": "/docs/sdk",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/sdk.md",
   "version": "current",
-  "sidebar_label": "SDK",
+  "sidebar_label": "SDK Set up",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_label": "SDK",
+    "sidebar_label": "SDK Set up",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial Intro",
-    "permalink": "/docs/intro"
+    "title": "Merchant Onboarding",
+    "permalink": "/docs/merchant"
   }
 }

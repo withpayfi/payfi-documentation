@@ -19,33 +19,36 @@
               {
                 "type": "doc",
                 "id": "sdk",
-                "label": "SDK"
+                "label": "SDK Set up"
               },
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "merchant",
+                "label": "Merchant Onboarding"
               }
             ]
           },
           "permalinkToSidebar": {
-            "/docs/intro": "tutorialSidebar",
+            "/docs/merchant": "tutorialSidebar",
             "/docs/sdk": "tutorialSidebar"
           },
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
+              "unversionedId": "merchant",
+              "id": "merchant",
               "isDocsHomePage": false,
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "title": "Merchant Onboarding",
+              "description": "Learn how Pay-Fi Merchants Get Onboard.",
+              "source": "@site/docs/merchant.md",
               "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/docs/intro",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/intro.md",
+              "slug": "/merchant",
+              "permalink": "/docs/merchant",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/merchant.md",
               "version": "current",
+              "sidebar_label": "Merchant Onboarding",
               "sidebarPosition": 2,
               "frontMatter": {
+                "sidebar_label": "Merchant Onboarding",
                 "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
@@ -66,16 +69,16 @@
               "permalink": "/docs/sdk",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/sdk.md",
               "version": "current",
-              "sidebar_label": "SDK",
+              "sidebar_label": "SDK Set up",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_label": "SDK",
+                "sidebar_label": "SDK Set up",
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial Intro",
-                "permalink": "/docs/intro"
+                "title": "Merchant Onboarding",
+                "permalink": "/docs/merchant"
               }
             }
           ]

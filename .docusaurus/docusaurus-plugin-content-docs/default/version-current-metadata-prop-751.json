@@ -7,18 +7,18 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "SDK",
+        "label": "SDK Set up",
         "href": "/docs/sdk"
       },
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro"
+        "label": "Merchant Onboarding",
+        "href": "/docs/merchant"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/intro": "tutorialSidebar",
+    "/docs/merchant": "tutorialSidebar",
     "/docs/sdk": "tutorialSidebar"
   }
 }

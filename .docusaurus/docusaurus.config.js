@@ -18,7 +18,7 @@ export default {
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "sdk",
           "position": "left",
           "label": "Tutorial",
           "activeSidebarClassName": "navbar__link--active"
@@ -44,7 +44,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/docs/sdk"
             }
           ]
         },
@@ -53,15 +53,15 @@ export default {
           "items": [
             {
               "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/"
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/"
+              "href": "https://discordapp.com/invite/docusaurus"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/"
+              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
@@ -74,7 +74,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/"
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }

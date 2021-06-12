@@ -1,5 +1,5 @@
 ---
-sidebar_label: "SDK"
+sidebar_label: "SDK Set up"
 sidebar_position: 1
 ---
 

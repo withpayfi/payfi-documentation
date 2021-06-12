@@ -1,0 +1,24 @@
+{
+  "unversionedId": "sdk copy",
+  "id": "sdk copy",
+  "isDocsHomePage": false,
+  "title": "Pay-Fi Sdk",
+  "description": "Learn how to use Pay-Fi SDK Quick.",
+  "source": "@site/docs/sdk copy.md",
+  "sourceDirName": ".",
+  "slug": "/sdk copy",
+  "permalink": "/docs/sdk copy",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/sdk copy.md",
+  "version": "current",
+  "sidebar_label": "SDK",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "SDK",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Pay-Fi Sdk",
+    "permalink": "/docs/sdk"
+  }
+}
